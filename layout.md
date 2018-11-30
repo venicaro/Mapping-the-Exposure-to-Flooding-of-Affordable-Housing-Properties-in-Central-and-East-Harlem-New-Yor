@@ -1,7 +1,5 @@
 abstract.html
 untitled.html
-dqdk1bgibok.html
-ecvmf8djmis.html
 jaivtq8pfig.html
 r00pptt98mk.html
 h4c00hhoksg.html
