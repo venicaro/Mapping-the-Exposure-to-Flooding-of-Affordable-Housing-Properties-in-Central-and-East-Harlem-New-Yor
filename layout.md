@@ -4,7 +4,6 @@ figures/Screen Shot 2018-11-30 at 3-28-45 PM
 oqft6ael8ac.html
 dsujii1uths.html
 b0novntklmc.html
-me3qvecv7a8.html
 gvloqm19pak.html
 vlgb4fg1kto.html
 f80jkpb6l5o.html
