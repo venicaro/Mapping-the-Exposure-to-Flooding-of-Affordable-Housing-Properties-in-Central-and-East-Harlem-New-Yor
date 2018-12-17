@@ -11,6 +11,5 @@ figures/Screen Shot 2018-12-17 at 11-54-39 AM
 g584ticeu74.html
 sj0rc5h30ng.html
 5hostac01qc.html
-22rjfso7tfo.html
 jtlcunf33vg.html
 vlgb4fg1kto.html
