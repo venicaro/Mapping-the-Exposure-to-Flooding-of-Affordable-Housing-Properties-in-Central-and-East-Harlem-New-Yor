@@ -6,6 +6,3 @@ figures/Screen Shot 2018-12-17 at 10-18-22 AM
 fq60030s0j.html
 dsujii1uths.html
 vlgb4fg1kto.html
-f80jkpb6l5o.html
-tudf0ghlruk.html
-1q11j5ibk4k.html
