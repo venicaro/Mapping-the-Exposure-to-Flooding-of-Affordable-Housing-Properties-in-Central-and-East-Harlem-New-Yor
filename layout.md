@@ -7,5 +7,7 @@ fq60030s0j.html
 dsujii1uths.html
 figures/Screen Shot 2018-12-17 at 11-54-00 AM
 e6v7d7nn2uo.html
+figures/Screen Shot 2018-12-17 at 11-54-39 AM
+g584ticeu74.html
 5hostac01qc.html
 vlgb4fg1kto.html
