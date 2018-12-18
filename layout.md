@@ -10,5 +10,7 @@ figures/Map2_final_final
 3a7of1srnd4.html
 figures/Screen Shot 2018-12-17 at 11-54-39 AM
 g584ticeu74.html
+figures/Map3_final
+sre8ltrcjes.html
 sj0rc5h30ng.html
 5hostac01qc.html
