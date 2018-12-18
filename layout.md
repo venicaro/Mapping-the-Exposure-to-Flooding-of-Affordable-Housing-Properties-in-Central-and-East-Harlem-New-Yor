@@ -13,4 +13,6 @@ g584ticeu74.html
 figures/Map3_final
 ttrdkfrpg9k.html
 sj0rc5h30ng.html
+figures/Map2_DEM_final_final
+psrnhqva49g.html
 5hostac01qc.html
