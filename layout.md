@@ -6,7 +6,6 @@ figures/Screen Shot 2018-12-18 at 4-46-15 PM
 dsujii1uths.html
 figures/Screen Shot 2018-12-17 at 11-54-00 AM
 e6v7d7nn2uo.html
-figures/Map2_final_final
 3a7of1srnd4.html
 figures/Screen Shot 2018-12-17 at 11-54-39 AM
 g584ticeu74.html
