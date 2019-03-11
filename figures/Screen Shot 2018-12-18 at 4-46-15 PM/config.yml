@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/Screen Shot 2018-12-18 at 4-46-15 PM/Screen Shot 2018-12-18 at 4-46-15
+  - path: figures/Screen Shot 2018-12-18 at 4-46-15 PM/Screen Shot 2019-03-11 at 3.39.33
       PM.png
     type: static
     from:
@@ -17,6 +17,6 @@ grid:
     to:
     - 1
     - 1
-    url: "/users/82133/articles/340617/master/file/figures/Screen%20Shot%202018-12-18%20at%204-46-15%20PM/Screen%20Shot%202018-12-18%20at%204-46-15%20PM.png"
     folder_url: "/users/82133/articles/340617/master/folder/figures/Screen Shot 2018-12-18
       at 4-46-15 PM"
+    url: "/users/82133/articles/340617/master/file/figures/Screen%20Shot%202018-12-18%20at%204-46-15%20PM/Screen%20Shot%202019-03-11%20at%203.39.33%20PM.png"
