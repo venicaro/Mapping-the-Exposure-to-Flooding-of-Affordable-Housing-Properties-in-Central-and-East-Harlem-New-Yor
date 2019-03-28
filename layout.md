@@ -21,4 +21,3 @@ figures/image003
 r4lr587ufrs.html
 figures/image002
 srf1fti65tg.html
-g0slktup4hc.html
