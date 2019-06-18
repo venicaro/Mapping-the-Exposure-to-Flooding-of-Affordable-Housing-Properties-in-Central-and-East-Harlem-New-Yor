@@ -1,6 +1,5 @@
 abstract.html
 untitled.html
-66p0869d284.html
 figures/Screen Shot 2018-11-30 at 3-28-45 PM
 oqft6ael8ac.html
 figures/Screen Shot 2018-12-18 at 4-46-15 PM
